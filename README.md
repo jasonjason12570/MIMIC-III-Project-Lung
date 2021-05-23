@@ -5,7 +5,6 @@ tags: 智慧醫療,COPD
 description: Professor Fu.
 ---
 # 智慧醫療-肺纖維化COPD
-030４  １１  １８  １  ８
 ### 主旨：
 - 為什麼要做肺纖維化的題目
     - 人體都會由纖維化做修復
