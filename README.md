@@ -74,3 +74,15 @@ description: Professor Fu.
 - **table位置：admission內之diagnosis**
 - 分群：出院診斷有COPD/ none COPD
 - 預測在此次ICU內死亡之COPD可能性
+
+
+
+#### INSTALLATION
+
+### XAMPP:
+1. cd in C:\xampp\mysql\bin
+2. mysql -u root -p -pmysql mimiciiiv14
+(使用xampp\mysql\bin內的mysql操作)
+3. 1-define.sql
+4. 2-index.sql
+5. 3-constraints.sql
